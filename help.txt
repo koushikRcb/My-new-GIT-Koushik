@@ -1,2 +1,0 @@
-commit2
-new line
